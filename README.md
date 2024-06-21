@@ -2,6 +2,10 @@
 
 Eventful is an events platform designed for a YMCA or youth centre to allow events planning and management, including Google Calendar integration to add events directly to your calendar with reminde notifications!
 
+## Deployment
+
+The hosted version of this app can be found at https://eventful-eta.vercel.app/
+
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your .env file
